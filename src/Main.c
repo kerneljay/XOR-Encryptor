@@ -1,7 +1,17 @@
-#include <stdio.h>
+#include "Main.h"
+#include "XORTest.h"
+#include "ShiftTest.h"
 
 int main()
 {
-    printf("Hello world");
+    // XORTest();
+
+    // SHIFT TESTS
+    // ShiftTestUndefinedBehavior();
+    // ShiftTestRandom();
+    // ShiftTestRandom2();
+    // DivideBitPatternBy2();
+    ShiftRandomAssTestFromGeeksForGeeks(); // Pretty good test
     return 0;
 }
+

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.c": "csharp",
+        "main.h": "c",
+        "limits.h": "c"
+    }
+}
